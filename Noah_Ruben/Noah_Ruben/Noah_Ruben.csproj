@@ -82,5 +82,29 @@
   <ItemGroup>
     <None Include="bin\Debug\churned-ocean-water-background-1557341287xa4.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\battleship.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\boat2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\boat3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\boat4.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\boat5.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\boat6.PNG" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
