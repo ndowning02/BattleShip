@@ -15,7 +15,17 @@ namespace Noah_Ruben
         public Form1()
         {
             InitializeComponent();
-            Label[][] Board = new Label[][] {row1,  };
+            Label[] row1 = new Label[] { label1, label2, label3, label4, label5, label6, label7, label8, label9, label10 };
+            Label[] row2 = new Label[] { label11, label12, label13, label14, label15, label16, label17, label18, label19, label20 };
+            Label[] row3 = new Label[] { label21, label22, label23, label24, label25, label26, label27, label28, label29, label30 };
+            Label[] row4 = new Label[] { label31, label32, label33, label34, label35, label36, label37, label38, label39, label40 };
+            Label[] row5 = new Label[] { label41, label42, label43, label44, label45, label46, label47, label48, label49, label50 };
+            Label[] row6 = new Label[] { label51, label52, label53, label54, label55, label56, label57, label58, label59, label60 };
+            Label[] row7 = new Label[] { label61, label62, label63, label64, label65, label66, label67, label68, label69, label70 };
+            Label[] row8 = new Label[] { label71, label72, label73, label74, label75, label76, label77, label78, label79, label80 };
+            Label[] row9 = new Label[] { label81, label82, label83, label84, label85, label86, label87, label88, label89, label90 };
+            Label[] row10 = new Label[] { label91, label92, label93, label94, label95, label96, label97, label98, label99, label100 };
+            Label[][] Board = new Label[][] { row1, row2, row3, row4, row5, row6, row7, row8, row9, row10 };
 
         }
 
