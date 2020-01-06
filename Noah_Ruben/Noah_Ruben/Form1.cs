@@ -15,6 +15,8 @@ namespace Noah_Ruben
         public Form1()
         {
             InitializeComponent();
+            Label[][] Board = new Label[][] {row1,  };
+
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -35,6 +37,16 @@ namespace Noah_Ruben
         private void startButton_Click(object sender, EventArgs e)
         {
             panel1.Hide();
+        }
+
+        private void label116_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
