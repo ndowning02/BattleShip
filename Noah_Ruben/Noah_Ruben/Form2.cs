@@ -24,6 +24,7 @@ namespace Noah_Ruben
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //commit
             Form1 f1 = new Form1();
             this.Hide();
             f1.ShowDialog();            
